@@ -188,7 +188,7 @@
  	 	 	 	"eng": "Deposit"
  	 	 	},
  	 	 	"depositDesc": {
- 	 	 	 	"trans": "Deposita Bitcoins in banca",
+ 	 	 	 	"trans": "Deposita Bitcoin in banca",
  	 	 	 	"eng": "Put Bitcoins into bank"
  	 	 	},
  	 	 	"withdraw": {
@@ -196,7 +196,7 @@
  	 	 	 	"eng": "Withdraw"
  	 	 	},
  	 	 	"withdrawDesc": {
- 	 	 	 	"trans": "Preleva Bitcoins dalla banca",
+ 	 	 	 	"trans": "Preleva Bitcoin dalla banca",
  	 	 	 	"eng": "Take Bitcoins out of bank"
  	 	 	},
  	 	 	"putItemToVault": {
@@ -313,7 +313,7 @@
  	 	 	 	"eng": "Links are not allowed"
  	 	 	},
  	 	 	"spamBlock": {
- 	 	 	 	"trans": "Si prega di non inviare un messaggio senza senso, gli spammer saranno silenziati.",
+ 	 	 	 	"trans": "Si prega di non inviare messaggi senza senso, gli spammer saranno silenziati.",
  	 	 	 	"eng": "Please do not send meaningless message, spams will be muted."
  	 	 	},
  	 	 	"repeatBlock": {
@@ -372,18 +372,18 @@
  	 	"clanPage": {
  	 	 	"createClan": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Non sei un membro di nessuna banda",
+ 	 	 	 	 	"trans": "Non sei membro di nessuna gang",
  	 	 	 	 	"eng": "You are not a member of any gang"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"cost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "La chat di gang sarà abilitata quando appartieni a una banda. \\ Noin una banda facendo amicizia nella chat globale o crea la tua banda e invita i tuoi amici!",
+ 	 	 	 	 	"trans": "La chat della gang sarà abilitata quando apparterrai a una gang. \\ NUnisciti a una gang facendo amicizia nella chat globale o creane una e invita i tuoi amici!",
  	 	 	 	 	"eng": "gang chat will be enabled when you belong to a gang.\\njoin a gang by making friends in global chat or create your own gang and invite your friends!"
  	 	 	 	},
  	 	 	 	"createButton": {
- 	 	 	 	 	"trans": "Crea banda",
+ 	 	 	 	 	"trans": "Crea gang",
  	 	 	 	 	"eng": "Create gang"
  	 	 	 	},
  	 	 	 	"createButtonDescription": {
@@ -391,7 +391,7 @@
  	 	 	 	 	 	"cost",
  	 	 	 	 	 	"currency"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Crea una banda per ${cost} ${currency}",
+ 	 	 	 	 	"trans": "Crea una gang per ${cost} ${currency}",
  	 	 	 	 	"eng": "Create a gang for ${cost} ${currency}"
  	 	 	 	}
  	 	 	}
@@ -406,7 +406,7 @@
  	 	 	 	"eng": "SL Medical Center"
  	 	 	},
  	 	 	"title": {
- 	 	 	 	"trans": "Sei morto",
+ 	 	 	 	"trans": "Morte cerebrale",
  	 	 	 	"eng": "Flatlined"
  	 	 	},
  	 	 	"subTitleSmall": {
@@ -503,7 +503,7 @@
  	 	 	 	 	 	"timeSkipMinutes",
  	 	 	 	 	 	"timeSkipCost"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Skip la chat Globale per (${timeSkipMinutes} Min, Costa ${timeSkipCost} Unità)",
+ 	 	 	 	 	"trans": "Skip Globale per (${timeSkipMinutes} Min, Costa ${timeSkipCost} Unità)",
  	 	 	 	 	"eng": "Global Skip (${timeSkipMinutes} Min, Cost ${timeSkipCost} Units)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -516,7 +516,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"itemSkipMinutes"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Skip di tempo gratuito (${itemSkipMinutes} min)",
+ 	 	 	 	 	"trans": "Salto temporale gratuito (${itemSkipMinutes} min)",
  	 	 	 	 	"eng": "Free time skip (${itemSkipMinutes} Min)"
  	 	 	 	},
  	 	 	 	"description": {
@@ -586,7 +586,7 @@
  	 	 	 	"eng": "Inventory"
  	 	 	},
  	 	 	"itemInbox": {
- 	 	 	 	"trans": "Oggetti in arrivo",
+ 	 	 	 	"trans": "Deposito oggetti",
  	 	 	 	"eng": "Item Inbox"
  	 	 	},
  	 	 	"crafting": {
@@ -597,11 +597,11 @@
  	 	"communityItemLore": {
  	 	 	"noLoreButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Crea una lore",
+ 	 	 	 	 	"trans": "Crea una Lore",
  	 	 	 	 	"eng": "Create Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Non c'è una lore per questo articolo, sii il primo a crearne una.",
+ 	 	 	 	 	"trans": "Non c'è una Lore per questo articolo, sii il primo a crearne una.",
  	 	 	 	 	"eng": "There is no community lore for this item yet, be the first to create one for it."
  	 	 	 	}
  	 	 	},
@@ -611,17 +611,17 @@
  	 	 	 	 	"eng": "Community Lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Apri la lore di questo oggetto",
+ 	 	 	 	 	"trans": "Apri la Lore di questo oggetto",
  	 	 	 	 	"eng": "Open the community lore for this item"
  	 	 	 	}
  	 	 	},
  	 	 	"editButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Modifica questa lore",
+ 	 	 	 	 	"trans": "Modifica questa Lore",
  	 	 	 	 	"eng": "edit this lore"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Modifica questa lore della comunità",
+ 	 	 	 	 	"trans": "Modifica questa Lore della comunità",
  	 	 	 	 	"eng": "Edit this community lore"
  	 	 	 	}
  	 	 	}
@@ -688,7 +688,7 @@
  	 	 	 	"eng": "Print Cache"
  	 	 	},
  	 	 	"printCacheDescription": {
- 	 	 	 	"trans": "Trasforma questa cache in un'arma o in un oggetto dell'attrezzatura che puoi UAE.",
+ 	 	 	 	"trans": "Trasforma questa cache in un'arma o in un equipaggiamento utilizzabile.",
  	 	 	 	"eng": "Turn this cache into a weapon or equipment item that you can uae."
  	 	 	},
  	 	 	"openContainer": {
@@ -1134,7 +1134,7 @@
  	 	 	 	 	 	"eng": "Get even better equipments!"
  	 	 	 	 	},
  	 	 	 	 	"description": {
- 	 	 	 	 	 	"trans": "Il tuo equipaggiamento sembra un po' obsoleto per il tuo livello, prova a stampare oggetti più forti per sostituirlo",
+ 	 	 	 	 	 	"trans": "Il tuo equipaggiamento sembra un po' obsoleto per il tuo livello, prova a stampare oggetti migliori per sostituirlo",
  	 	 	 	 	 	"eng": "Your current equipment seems abit outdated for your level, try printing stronger ones to replace them"
  	 	 	 	 	}
  	 	 	 	},
@@ -1189,7 +1189,7 @@
  	 	 	 	 	 	"eng": "Cyberspace breach in progress"
  	 	 	 	 	},
  	 	 	 	 	"subtitle": {
- 	 	 	 	 	 	"trans": "Unisci le forze con altri netrunner per violare la Fortezza SL-Data e garantire buff a tutti i giocatori",
+ 	 	 	 	 	 	"trans": "Unisci le forze con altri Netrunner per violare la Fortezza SL-Data e garantire buff a tutti i giocatori",
  	 	 	 	 	 	"eng": "Join forces with other Netrunners to breach the SL-Data Fortress to grant all players with buff"
  	 	 	 	 	}
  	 	 	 	},
@@ -1335,11 +1335,11 @@
  	 	 	},
  	 	 	"disableAttackBar": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Disabilita la barra di distribuzione dell\\'attacco",
+ 	 	 	 	 	"trans": "Disabilita la barra temporale dell\\'attacco",
  	 	 	 	 	"eng": "Disable Attack Timing Bar"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "La disattivazione della barra di distribuzione dell'attacco non concederà danni extra",
+ 	 	 	 	 	"trans": "La disattivazione della barra temporale dell'attacco non concederà danni extra",
  	 	 	 	 	"eng": "Disabling attack timing bar will not grant extra damage"
  	 	 	 	}
  	 	 	},
