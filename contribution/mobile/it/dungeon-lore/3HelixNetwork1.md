@@ -1,13 +1,14 @@
-[A librarium datadisk. Looks like it's been left here a long time. You pick it up and begin playing the media stored on the disk.]  
+[Un disco dati di una libreria. Sembra che stia lì da sempre. Lo raccogli e inizi ad analizzarne il contenuto.]  
   
->You can hear a crowd of people have gathered here. Noise of the TV with the news on can be heard.  
+>Senti una folla avvicinarsi. Si riesce a sentire il suono di una TV accesa sul telegiornale.  
   
-**Woman's voice:**"Happy Birthday sweetheart!"  
-**Child's voice:**"Thanks mom!"  
-**Woman's voice:**"Make a wis---"  
+**Voce di donna:**"Tanti auguri tesoro!"  
+**Voce di bimbo:**"Grazie mamma!"  
+**Voce di donna:**"Esprimi un des---"  
   
->The woman's voice is loudly interrupted by a crackling and high-pitched tone.  
+>La voce di donna viene bruscamente interrotta da un suono stridulo e disturbato.
   
-**Deep Man's Voice**:"Citizens of Shangri-La. You have been deceived. You cannot trust your government or even your supposed "free and open" information source to be relied on. You have been brainwashed and lied to. At this very moment, your mayor is making a shady, backalley deal with one of the most corrupt financial institutions here in the city. Your media news outlets have been paid to deceive and lie to their citizens, intending to cover up the story so the mayor can appear to bring the city into a new age of technology. This has been a courtesy announcement and wake up call from The 3Helix Network. We have given you the information. Do what you will."  
-  
->The announcement cuts off just as the media playback stops.  
+**Voce profonda di uomo**:"Cittadini di Shangri-La. Siete stati ingannati. Non potete fidarvi del vostro governo e nemmeno della vostra cosiddetta fonte di informazione "libera e aperta". Vi hanno lavato il cervello e mentito. Proprio in questo momento, il vostro sindaco sta firmando un oscuro, segreto accordo con una delle istituzioni finanziarie più corrotte della città. I vostri organi di informazione sono stati pagati per depistare e mentire ai loro cittadini, con l'intenzione di insabbiare la storia cosicché il sindaco potesse fingere di essere l'araldo di una nuova era tecnologica della città. Questo è un annuncio di cortesia e una chiamata all'azione dalla 3Helix Network. Siete stati informati. Fate ciò in cui credete."  
+    
+>L'annuncio è tagliato e la sua riproduzione interrotta.  
+
