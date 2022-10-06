@@ -13,7 +13,7 @@
  	 	 	"eng": "Quest"
  	 	},
  	 	"chat": {
- 	 	 	"trans": "Chiacchierata",
+ 	 	 	"trans": "Chat",
  	 	 	"eng": "Chat"
  	 	},
  	 	"profile": {
@@ -6195,7 +6195,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Congratulazioni, sei salito al livello: ${levelName}!",
+ 	 	 	 	"trans": "Congratulazioni, sei salito al livello ${levelName}!",
  	 	 	 	"eng": "Congratulation, you have leveled up your ${levelName}!"
  	 	 	},
  	 	 	"fromTo": {
@@ -6209,7 +6209,7 @@
  	 	},
  	 	"review": {
  	 	 	"title1": {
- 	 	 	 	"trans": "Sono Dexter, lo sviluppatore di questo gioco, e vorrei sapere che esperienza hai avuto finora.",
+ 	 	 	 	"trans": "Sono Dexter, lo sviluppatore di questo gioco, e vorrei sapere di pi\ù sulla tua esperienza di gioco.",
  	 	 	 	"eng": "I'm Dexter, the developer of this game, and I hope to know your experience so far."
  	 	 	},
  	 	 	"title2": {
@@ -6224,11 +6224,11 @@
  	 	 	},
  	 	 	"goodReview": {
  	 	 	 	"title1": {
- 	 	 	 	 	"trans": "Wow grazie mille! Sono onorato, per favore rendilo ufficiale lasciando il tuo feedback nella pagina del nostro store :)",
+ 	 	 	 	 	"trans": "Wow grazie mille! Sono onorato, per favore ufficializza lasciando il tuo feedback nella pagina del nostro store :)",
  	 	 	 	 	"eng": "Wow, thanks so much! I'm honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
- 	 	 	 	 	"trans": "La tua buona recensione mi aiuterà tantissimo a portare più giocatori nella nostra comunità!",
+ 	 	 	 	 	"trans": "Una buona recensione mi aiuterà tantissimo a portare più giocatori nella nostra comunità!",
  	 	 	 	 	"eng": "Your good review is going to help me much and bring more players into our community!"
  	 	 	 	}
  	 	 	},
@@ -6248,7 +6248,7 @@
  	 	 	},
  	 	 	"noShowToggle": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Puoi vedere il tutorial completo facendo profilo> TAB TUTORIAL",
+ 	 	 	 	 	"trans": "Puoi vedere il tutorial completo alla sezione Profilo > Tutorial",
  	 	 	 	 	"eng": "You can see the full tutorial at Profile > Tutorial tab"
  	 	 	 	},
  	 	 	 	"label": {
@@ -6269,12 +6269,12 @@
  	 	 	 	"eng": "An update has been installed"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Si prega di fare clic su Aggiorna per continuare",
+ 	 	 	 	"trans": "Si prega di fare clic su Ricarica per continuare",
  	 	 	 	"eng": "Please click reload to continue"
  	 	 	},
  	 	 	"reloadButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Aggiorna",
+ 	 	 	 	 	"trans": "Ricarica",
  	 	 	 	 	"eng": "Reload"
  	 	 	 	}
  	 	 	}
@@ -6283,17 +6283,17 @@
  	"createClanModal": {
  	 	"gangNameInput": {
  	 	 	"title": {
- 	 	 	 	"trans": "Nome della banda",
+ 	 	 	 	"trans": "Nome della gang",
  	 	 	 	"eng": "Gang Name"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Inserisci il nome completo della tua banda",
+ 	 	 	 	"trans": "Inserisci il nome completo della tua gang",
  	 	 	 	"eng": "Enter the full name of your gang"
  	 	 	}
  	 	},
  	 	"gangShortNameInput": {
  	 	 	"title": {
- 	 	 	 	"trans": "Giornata della banda",
+ 	 	 	 	"trans": "Gang Tag",
  	 	 	 	"eng": "Gang Tag"
  	 	 	},
  	 	 	"description": {
@@ -6327,7 +6327,7 @@
  	 	 	"eng": "reporting ${playerName}"
  	 	},
  	 	"description": {
- 	 	 	"trans": "Il rapporto verrà inviato automaticamente ai moderatori. \\ nplease NON MASSIONE, Spamming o Gioca con il sistema di report",
+ 	 	 	"trans": "La segnalazione verrà inviata automaticamente ai moderatori. \\ nSi prega di non abusare, spammare o giocherellare con le segnalazioni",
  	 	 	"eng": "Report will be sent to moderators automatically. \\nPlease do not misuses, spamming or play with the report system"
  	 	},
  	 	"textInput": {
@@ -6337,16 +6337,16 @@
  	 	 	}
  	 	},
  	 	"report": {
- 	 	 	"trans": "Rapporto e blocco",
+ 	 	 	"trans": "Segnala e blocca",
  	 	 	"eng": "report and block"
  	 	},
  	 	"error": {
  	 	 	"otherNoText": {
- 	 	 	 	"trans": "Il tipo di report di \"altri\" necessita di una descrizione",
+ 	 	 	 	"trans": "Il tipo di segnalazione \"altri\" necessita di una descrizione",
  	 	 	 	"eng": "Report type of \"Other\" needs a description"
  	 	 	},
  	 	 	"noReportType": {
- 	 	 	 	"trans": "È necessario selezionare un tipo di report",
+ 	 	 	 	"trans": "È necessario selezionare un tipo di segnalazione",
  	 	 	 	"eng": "You need to select a report type"
  	 	 	}
  	 	}
@@ -6363,7 +6363,7 @@
  	 	 	 	"trans": "Invitare",
  	 	 	 	"eng": "Invite",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Invita altri giocatori a unirsi alla tua banda.",
+ 	 	 	 	 	"trans": "Invita altri giocatori a unirsi alla tua gang.",
  	 	 	 	 	"eng": "Invite other players to join your gang."
  	 	 	 	}
  	 	 	},
@@ -6371,7 +6371,7 @@
  	 	 	 	"trans": "Calcio",
  	 	 	 	"eng": "Kick",
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Calci altri giocatori dalla tua banda.",
+ 	 	 	 	 	"trans": "Escludi altri giocatori dalla tua gang.",
  	 	 	 	 	"eng": "Kick other players from your gang."
  	 	 	 	}
  	 	 	},
