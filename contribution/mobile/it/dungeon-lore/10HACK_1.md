@@ -1,17 +1,18 @@
->[Part 1 of 3 of 10\HACK series]
+>[Parte 1 di 3 della serie 10\HACK]
 
-Ten little hackers, prowling online
+Dieci piccoli hacker, si aggiravano online
 
-One betrayed his location then there were nine.
+Uno svelò il suo indirizzo: rimasero in nine.
 
-Nine little hackers diverting freight;
+Nove piccoli hacker che fanno un pezzotto;
 
-One tripped an ICE then there were eight.
+Uno scivolò su un ICE e restarono in otto.
 
-Eight little hackers raiding a tax haven
+Otto piccoli hacker e gli evasori alle strette
 
-One smelled like Fed, then there were seven.
+Uno era una guardia e ne rimasero sette.
 
-Seven little hackers stealing memory sticks;
+Sette piccoli hacker rubavano hard disk
 
-One was GPS-tracked, then there were six.
+Uno fu rintracciato e ne rimasero six.
+
