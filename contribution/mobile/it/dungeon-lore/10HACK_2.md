@@ -1,13 +1,13 @@
->[Part 2 of 3 of 10\HACK series]  
+>[Parte 2 di 3 della serie 10\HACK]  
 
-Six little hackers encrypting their hard drive
+Sei piccoli hacker crittografavano il loro HD pingue 
 
-One's password was easy, then there were five.
+La password di uno era facile, ne rimasero cinque.
 
-Five little hackers planting a backdoor
+Cinque piccoli hacker fece una backdoor, che matto
 
-One bragged on a forum, and there were four.
+Se ne vantò su un forum e ne rimasero quattro.
 
-Four little hackers, their spirit so free
+Quattro piccoli hacker, liberi come me e te
 
-One ended up in jail, then there were three.
+Uno finì in galera e ne rimasero tre.
