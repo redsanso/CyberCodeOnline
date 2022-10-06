@@ -1,13 +1,13 @@
->[Part 3 of 3 of 10\HACK series]  
+>[Part 2 di 3 della serie 10\HACK]  
 
-Three little hackers, an elite crackin' crew;
+Tre piccoli hacker, ognuno sulle sue
 
-One got ID'd IRL, and then there were two.
+Uno fu riconosciuto e ne rimasero due.
 
-Two little hackers always on the run
+Due piccoli hacker, a fuggir da ciascuno
 
-One was busted at customs, and then there was one.
+Uno fu preso al confine e ne rimase solo uno.
 
-One little hacker, working alone;
+Un piccolo hacker, senza compagno alcuno
 
-He joined a Corporation and then there were none.
+Da un'azienda fu assunto e non rimase nessuno.
